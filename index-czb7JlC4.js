@@ -9215,13 +9215,13 @@ const Xd = () =>
             C.jsx("p", {
               className:
                 "font-grandstander text-[95px] md:text-[150px] leading-tight text-center md:text-left  text-white font-black  text-gradient",
-              children: "Not An Airdrop",
+              children: "Mercedes On Solana",
             }),
             C.jsx("p", {
               className:
                 "font-grandstander text-[20px]  text-white font-[500] text-center md:text-left ",
               children:
-                "Everyone wants an airdrop so badly. You can officially receive an airdrop directly into your wallet by simply acquiring $AIRDROP through the Raydium swap page.",
+                "Welcome to Mercedes Token ( Ticker $MBENZ ) . We followed big meta about Luxury Car right now in Solana Chain .  Big boy Lambo smashed 4m ATH and we will catch that point easy . All people in this world know about Mercedes , so we decide to creat a token about this and get ready to go to the moon 🚘🚘",
             }),
             C.jsx("div", {
               className:
@@ -9261,22 +9261,22 @@ const Xd = () =>
             " rounded-[20px] mt-[100px]  items-center grid grid-cols-1 md:grid-cols-2 justify-center md:mt-0",
           children: [
             C.jsx("img", {
-              src: "../1.jpg",
+              src: "1.jpg",
               alt: "",
               className: "w-[400px] rounded-[20px]",
             }),
             C.jsx("img", {
-              src: "../2.jpg",
+              src: "2.jpg",
               alt: "",
               className: "w-[400px] rounded-[20px]",
             }),
             C.jsx("img", {
-              src: "../3.jpg",
+              src: "3.jpg",
               alt: "",
               className: "w-[400px] rounded-[20px]",
             }),
             C.jsx("img", {
-              src: "../4.jpg",
+              src: "4.jpg",
               alt: "",
               className: "w-[400px] rounded-[20px]",
             }),
